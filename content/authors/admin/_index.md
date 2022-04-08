@@ -2,7 +2,7 @@
 bio: My research interests include conservation planning and optimal monitoring.
 education:
   courses:
-  - course: Master of Philospile 
+  - course: Master of Philosophy
     institution: Queensland University of Technology
     year: 2022
   - course: Bachelor of Environmental Engineering

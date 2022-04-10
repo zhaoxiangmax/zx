@@ -49,4 +49,3 @@ He also initiated, managed, and coordinated a marine conservation program – Bl
 
 The “Panda Project” and the Blue Pioneers Program were conducted during Xiang’s employment with Duke Kunshan University, Kunshan, China. Before that, Xiang got his bachelor’s degree in Environmental Engineering from Dalian University of Technology, Dalian, China.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

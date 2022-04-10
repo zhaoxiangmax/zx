@@ -21,7 +21,7 @@ role: HDR Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:x36.zhao@hdr.qut.edu.au
+  link: "mailto:x36.zhao@hdr.qut.edu.au""
 - display:
     header: true
   icon: twitter

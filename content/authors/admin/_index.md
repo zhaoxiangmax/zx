@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/xiang-zhao-4ba08113a/
 superuser: true
-title: Xiang Zhao (赵翔)
+title: Zhao Xiang (赵翔)
 ---
 
 Xiang Zhao is a research student working on applying systematic conservation planning tools on management and development of Antarctica’s Protected Areas.

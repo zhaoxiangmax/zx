@@ -1,5 +1,5 @@
 ---
-bio: My research interests include conservation planning and optimal monitoring.
+bio: My research interests include dynamic conservation planning and optimal monitoring.
 education:
   courses:
   - course: Master of Philosophy
@@ -41,11 +41,11 @@ superuser: true
 title: Zhao Xiang (赵翔)
 ---
 
-Xiang Zhao is a research student working on applying systematic conservation planning tools on management and development of Antarctica’s Protected Areas.
+Zhao is a research student working on applying systematic conservation planning tools on management and development of Antarctica’s Protected Areas.
 
-He worked on a project protecting the giant panda’s habitats from degradation caused by free-ranging livestock in three IBAs (Wanglang, Xuebaoding, and Xiaohegou Nature Reserves) located in Southwest China, with financial support from Birdlife International Young Conservation Leaders Awards. This project aims to determine how many livestock can safely graze in these areas without threatening wildlife and their habitats. By working with local communities and governments, Xiang found that grazing conflict is not an isolated environmental problem only between cattle and the giant panda. It is more a problem of economic development and poverty alleviation, as livestock is an important source of income to locals. To solve this problem, broad and deep understandings of social-ecological system, human and nature, should be taken to the field.
+He worked on a project protecting the giant panda’s habitats from degradation caused by free-ranging livestock in three IBAs (Wanglang, Xuebaoding, and Xiaohegou Nature Reserves) located in Southwest China, with financial support from Birdlife International Young Conservation Leaders Awards. This project aims to determine how many livestock can safely graze in these areas without threatening wildlife and their habitats. By working with local communities and governments, Zhao found that grazing conflict is not an isolated environmental problem only between cattle and the giant panda. It is more a problem of economic development and poverty alleviation, as livestock is an important source of income to locals. To solve this problem, broad and deep understandings of social-ecological system, human and nature, should be taken to the field.
 
-He also initiated, managed, and coordinated a marine conservation program – Blue Pioneers Program– which aims to empower China’s local marine NGOs and young leaders working on the frontline of marine and coastal protection. This project has built a strong network connecting participants to environmental economists, marine scientists, senior leaders of international NGOs, and foundations from all over the world. In 2018, the King and Queen of Norway received 3 participants and Prof. Kathinka Fürst, the Academic Supervisor of this program, during their visit to China. Xiang introduced this program to the State Secretary of Norway in a close-door meeting on the same day.
+He also initiated, managed, and coordinated a marine conservation program – Blue Pioneers Program– which aims to empower China’s local marine NGOs and young leaders working on the frontline of marine and coastal protection. This project has built a strong network connecting participants to environmental economists, marine scientists, senior leaders of international NGOs, and foundations from all over the world. In 2018, the King and Queen of Norway received 3 participants and Prof. Kathinka Fürst, the Academic Supervisor of this program, during their visit to China. Zhao introduced this program to the State Secretary of Norway in a close-door meeting on the same day.
 
-The “Panda Project” and the Blue Pioneers Program were conducted during Xiang’s employment with Duke Kunshan University, Kunshan, China. Before that, Xiang got his bachelor’s degree in Environmental Engineering from Dalian University of Technology, Dalian, China.
+The “Panda Project” and the Blue Pioneers Program were conducted during Zhao’s employment with Duke Kunshan University, Kunshan, China. Before that, Zhao got his bachelor’s degree in Environmental Engineering from Dalian University of Technology, Dalian, China.
 

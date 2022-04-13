@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards & Funding'
 subtitle:
 
 # Date format
@@ -23,30 +23,47 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-06-13"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: QUT
+  organization_url: 
+  title: QUT Postgraduates Research Award Scholarship and QUT HDR Tuition Fee Sponsorship, the Queensland University of Technology, Australia
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2019"
+  description: 
+  organization: the Aage V. Jensen Charity Foundation and Conservation Leadership Program of Birdlife International, UK
+  organization_url: 
+  title: USD 1,475 (2,000 AUD), Travel Grant
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2018"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Young Conservation Leadership Award 2018, Birdlife International, UK
+  organization_url: 
+  title: £10,000 (17,570 AUD)
   url: ""
+- certificate_url: 
+  date_end: "2016"
+  date_start: "2014"
+  description: ""
+  organization: National Innovation and Entrepreneurship Training Program, China
+  organization_url: 
+  title: RMB 10,000 (2,000 AUD)
+  url: ""
+- certificate_url: 
+  date_end: "2016"
+  date_start: "2016"
+  description: ""
+  organization: The University of Kitakyushu, Japan
+  organization_url: 
+  title: Academic Visiting
+  url: ""  
+  
 
 design:
   columns: '2' 

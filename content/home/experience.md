@@ -29,8 +29,8 @@ experience:
     location: 'Brisbane, Australia'
     date_start: '2021-06-013'
     date_end: ''
-    description: |2-
-    This ongoing research project aims at using conservation planning and decision-making theory to form resources prioritization for conserving biodiversity in terrestrial Antarctica.
+    description: >-
+    'This ongoing research project aims at using conservation planning and decision-making theory to form resources prioritization for conserving biodiversity in terrestrial Antarctica.'
 
 design:
   columns: '2'

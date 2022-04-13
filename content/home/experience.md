@@ -29,8 +29,7 @@ experience:
     location: Brisbane, Australia
     date_start: '2021-06-013'
     date_end: ''
-    description:|2-
-    This ongoing research project aims at using conservation planning and decision-making theory to form resources prioritization for conserving biodiversity in terrestrial Antarctica.
+    description: 'This ongoing research project aims at using conservation planning and decision-making theory to form resources prioritization for conserving biodiversity in terrestrial Antarctica.'
         
   - title: Research Assistant
     company: Dr. Kathinka Fürst
@@ -39,8 +38,7 @@ experience:
     location: Online
     date_start: '2021'
     date_end: '2022'
-    description: |2-
-    I drafted a 34-page marine NGOs capacity building initiative proposal. This proposed project aims at building a regional platform to accelerate the career development of young leaders from local marine NGOs in China, India, and ASEAN countries.
+    description: 'I drafted a 34-page marine NGOs capacity building initiative proposal. This proposed project aims at building a regional platform to accelerate the career development of young leaders from local marine NGOs in China, India, and ASEAN countries.'
 
  - title: Team Member
     company: Overgrazing Livestock Problem in Panda Habitats Research Team (Four-people)
@@ -49,24 +47,22 @@ experience:
     location: Sichuan, China
     date_start: '2017-12'
     date_end: '2019-12'
-    description: |2-
-    This project includes one-year fieldwork and one-year desk work (data analysis and journal paper writing). We looked at the overgrazing livestock problem in Panda's habitats located in Southwestern China. We worked with the local community and conducted household surveys to understand the history, future, and drivers of this problem. My responsibilities have included:
+    description: 'This project includes one-year fieldwork and one-year desk work (data analysis and journal paper writing). We looked at the overgrazing livestock problem in Panda's habitats located in Southwestern China. We worked with the local community and conducted household surveys to understand the history, future, and drivers of this problem. My responsibilities have included:
 • writing project proposal for funding application
 • managing finance and liability of the project’s funding
 • fieldwork planning and data collection, community survey design and digitalization, and volunteer team management
-• analyzing data and writing a journal paper
+• analyzing data and writing a journal paper'
 
   - title: Intern
-    company: School of Environment,Tsinghua University
+    company: 'School of Environment,Tsinghua University'
     company_url: ''
     company_logo: 
-    location: Shijiazhuang City, China
+    location: 'Shijiazhuang City, China'
     date_start: '2017-10'
     date_end: '2017-10'
-    description: |2-
-    The project I worked on was “PM 2.5 sources census in Hebei Province”. My responsibilities have included:
+    description: 'The project I worked on was “PM 2.5 sources census in Hebei Province”. My responsibilities have included:
 • working with researchers from Tsinghua University, Nankai University, and government servants of Shijiazhuang Environmental Protection Bureau to build a census system of PM 2.5 sources in Shijiazhuang city
-• providing technical support to two counties of Shijiazhuang city to complete the census.
+• providing technical support to two counties of Shijiazhuang city to complete the census.'
 
 - title: Research Intern
     company: The Nature Conservancy, China
@@ -75,12 +71,11 @@ experience:
     location: Beijing, China
     date_start: '2017-01'
     date_end: '2017-03'
-    description: |2-
-    The project I worked on was "River Health". This project aims at introducing and building a river health assessment system to evaluate the ecosystem health of two main rivers in China. My responsibilities have included:
+    description: 'The project I worked on was "River Health". This project aims at introducing and building a river health assessment system to evaluate the ecosystem health of two main rivers in China. My responsibilities have included:
  analyzing China's policies of retirement of small hydroelectric power plants.
  collectingandanalyzingworldwidegoodpracticesofriverhealthassessmentanddrafting20,000words
 report.
- organizing a team to translate a 12,000 words project proposal from Chinese to English.
+ organizing a team to translate a 12,000 words project proposal from Chinese to English.'
 
 - title: Research Assistant
     company: Key Laboratory of Industrial Ecology and Environmental Engineering, Dalian
@@ -89,9 +84,8 @@ report.
     location: Dalian, China
     date_start: '2014'
     date_end: '2016'
-    description: |2-
-    In this three-year lab work, I studied the performance of copper-based catalysts in selective catalytic oxidation of ammonia. This study aims at using cheap metal (base metal) to make catalysts to eliminate ammonia in industrial gas emissions. My graduation thesis for my bachelor's degree was developed from this work.
+    description: 'In this three-year lab work, I studied the performance of copper-based catalysts in selective catalytic oxidation of ammonia. This study aims at using cheap metal (base metal) to make catalysts to eliminate ammonia in industrial gas emissions. My graduation thesis for my bachelor's degree was developed from this work.'
 
 design:
-  columns: '6'
+  columns: '2'
 ---

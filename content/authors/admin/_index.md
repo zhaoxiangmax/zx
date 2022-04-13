@@ -21,7 +21,7 @@ role: HDR Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:x36.zhao@hdr.qut.edu.au""
+  link: "mailto:x36.zhao@hdr.qut.edu.au"
 - display:
     header: true
   icon: twitter
@@ -48,5 +48,3 @@ He worked on a project protecting the giant panda’s habitats from degradation 
 He also initiated, managed, and coordinated a marine conservation program – Blue Pioneers Program– which aims to empower China’s local marine NGOs and young leaders working on the frontline of marine and coastal protection. This project has built a strong network connecting participants to environmental economists, marine scientists, senior leaders of international NGOs, and foundations from all over the world. In 2018, the King and Queen of Norway received 3 participants and Prof. Kathinka Fürst, the Academic Supervisor of this program, during their visit to China. Zhao introduced this program to the State Secretary of Norway in a close-door meeting on the same day.
 
 The “Panda Project” and the Blue Pioneers Program were conducted during Zhao’s employment with Duke Kunshan University, Kunshan, China. Before that, Zhao got his bachelor’s degree in Environmental Engineering from Dalian University of Technology, Dalian, China.
-
----

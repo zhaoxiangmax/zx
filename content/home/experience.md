@@ -31,6 +31,14 @@ experience:
     date_end: ''
     description: 'This ongoing research project aims at using conservation planning and decision-making theory to form resources prioritization for conserving biodiversity in terrestrial Antarctica.'
 
+  - title: 'Research Assistant'
+    company: 'Dr. Kathinka Fürst'
+    company_url: ''
+    company_logo:
+    location: 'Online'
+    date_start: '2020-05-01'
+    date_end: '2021-01-01'
+    description: 'I drafted a 34-page marine NGOs capacity building initiative proposal. This proposed project aims at building a regional platform to accelerate the career development of young leaders from local marine NGOs in China, India, and ASEAN countries.'
 
 design:
   columns: '2'

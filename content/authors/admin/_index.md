@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/xiang-zhao-4ba08113a/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Zhao Xiang (赵 翔)
 ---
 
 Zhao is a research student working on applying systematic conservation planning tools on management and development of Antarctica’s Protected Areas.

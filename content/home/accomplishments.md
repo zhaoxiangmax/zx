@@ -24,17 +24,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: ""
-  date_start: "2021-06-13"
+  date_end: "2023-06-01"
+  date_start: "2021-06-01"
   description: ""
-  organization: QUT
+  organization: "Queensland University of Technology, Australia""
   organization_url: 
-  title: QUT Postgraduates Research Award Scholarship and QUT HDR Tuition Fee Sponsorship, the Queensland University of Technology, Australia
+  title: Postgraduates Research Award Scholarship and HDR Tuition Fee Sponsorship,
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2019-01-01"
-  description: 
+  date_start: "2019-07-01"
+  description: This grant was offered to Zhao to attend the 29th International Congress for Conservation Biology in Kuala Lumpur 
   organization: the Aage V. Jensen Charity Foundation and Conservation Leadership Program of Birdlife International, UK
   organization_url: 
   title: USD 1,475 (2,000 AUD), Travel Grant
@@ -56,8 +56,8 @@ item:
   title: RMB 10,000 (2,000 AUD)
   url: ""
 - certificate_url: 
-  date_end: "2016-01-01"
-  date_start: "2016-01-01"
+  date_end: ""
+  date_start: "2016-04-01"
   description: ""
   organization: The University of Kitakyushu, Japan
   organization_url: 

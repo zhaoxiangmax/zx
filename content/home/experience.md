@@ -40,7 +40,7 @@ experience:
     date_end: '2021-01-01'
     description: 'I drafted a 34-page marine NGOs capacity building initiative proposal. This proposed project aims at building a regional platform to accelerate the career development of young leaders from local marine NGOs in China, India, and ASEAN countries.'
     
-     - title: 'Team Member'
+  - title: 'Team Member'
     company: ' Overgrazing Livestock Problem in Panda Habitats Research Team (Four-people)'
     company_url: ''
     company_logo:

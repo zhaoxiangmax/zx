@@ -27,7 +27,7 @@ item:
   date_end: "2023-06-01"
   date_start: "2021-06-01"
   description: ""
-  organization: "Queensland University of Technology, Australia""
+  organization: Queensland University of Technology, Australia
   organization_url: 
   title: Postgraduates Research Award Scholarship and HDR Tuition Fee Sponsorship,
   url: ""

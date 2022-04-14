@@ -47,11 +47,7 @@ experience:
     location: 'Sichuan, China'
     date_start: '2017-12-01'
     date_end: '2019-12-01'
-    description: 'This project includes one-year fieldwork and one-year desk work (data analysis and journal paper writing). We looked at the overgrazing livestock problem in Panda's habitats located in Southwestern China. We worked with the local community and conducted household surveys to understand the history, future, and drivers of this problem. My responsibilities have included:
-• writing project proposal for funding application
-• managing finance and liability of the project’s funding
-• fieldwork planning and data collection, community survey design and digitalization, and volunteer team management
-• analyzing data and writing a journal paper'
+    description: 'This project includes one-year fieldwork and one-year desk work (data analysis and journal paper writing). We looked at the overgrazing livestock problem in Panda's habitats located in Southwestern China. We worked with the local community and conducted household surveys to understand the history, future, and drivers of this problem.'
 
 
 design:

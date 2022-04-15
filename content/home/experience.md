@@ -40,14 +40,14 @@ experience:
     date_end: '2021-01-01'
     description: 'I drafted a 34-page marine NGOs capacity building initiative proposal. This proposed project aims at building a regional platform to accelerate the career development of young leaders from local marine NGOs in China, India, and ASEAN countries.'
 
-  - title: 'Research Assistant'
-    company: 'Dr. Kathinka Fürst'
+  - title: 'Team member'
+    company: 'Overgrazing Livestock Problem in Panda Habitats Research Team (Four-people)'
     company_url: ''
     company_logo:
-    location: 'Online'
-    date_start: '2020-05-01'
-    date_end: '2021-01-01'
-    description: 'I drafted a 34-page marine NGOs capacity building initiative proposal. This proposed project aims at building a regional platform to accelerate the career development of young leaders from local marine NGOs in China, India, and ASEAN countries.'
+    location: 'Sichuan, China'
+    date_start: '2017-12-01'
+    date_end: '2019-12-01'
+    description: 'This project includes one-year fieldwork and one-year desk work (data analysis and journal paper writing). We looked at the overgrazing livestock problem in Panda's habitats located in Southwestern China. We worked with the local community and conducted household surveys to understand the history, future, and drivers of this problem.'
 
 
 design:

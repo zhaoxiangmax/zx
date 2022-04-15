@@ -13,6 +13,7 @@ highlight_name: true
 interests:
 - Conservation Planning
 - Optimal Monitoring
+- Human Disturbance
 - Social-ecological System
 organizations:
 - name: Queensland University of Technology

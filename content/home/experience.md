@@ -46,10 +46,10 @@ experience:
     company_logo:
     location: 'Sichuan, China'
     date_start: '2017-12-01'
-    date_end: '2019-12-01'
+    date_end: 'Dec 2019'
     description: 'This project includes one-year fieldwork and one-year desk work (data analysis and journal paper writing). We looked at the overgrazing livestock problem in Panda's habitats located in Southwestern China. We worked with the local community and conducted household surveys to understand the history, future, and drivers of this problem.'
 
 
 design:
-  columns: '3'
+  columns: '2'
 ---

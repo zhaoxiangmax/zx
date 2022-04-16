@@ -4,7 +4,7 @@ education:
   courses:
   - course: Master of Philosophy (Conservation Science)
     institution: Queensland University of Technology
-    year: 2022
+    year: 2023
   - course: Bachelor of Environmental Engineering
     institution: Dalian University of Technology
     year: 2017

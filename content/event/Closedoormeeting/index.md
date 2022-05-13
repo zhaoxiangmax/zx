@@ -1,15 +1,15 @@
 ---
-abstract: Capacity building for China's Marine NGOs : Blue Pioneer Program
+abstract: A quick introduction on Systematic Conservation Planning
 address:
-  city: Shanghai
+  city: Kunshan
   country: China
-  postcode: "200080"
-  region: Shanghai City
-  street: 199, HuangPu Road
+  postcode: "215316"
+  region: Kunshan
+  street: 8, Duke Avenue
 all_day: false
 authors: []
-date: "2018-10-18T16:00:00Z"
-date_end: "2018-10-18T18:00:00Z"
+date: "2022-04-18T14:00:00Z"
+date_end: "2022-04-18T15:00:00Z"
 event:
 event_url:
 featured: false
@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Hyatt
+location: Biodiversity Lab
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: As the coordinator of the 2018 Blue Pionner Program, Zhao introduced their work and Blue Pioneer Program to the State Secretary of the Minister of Climate and Environment of Norway in a close-door meeting.
+summary: What is Systematic Conservation Planning and how does it work?
 tags: []
-title: Capacity building for China's Marine NGOs : Blue Pioneer Program
+title: A quick introduction on Systematic Conservation Planning
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -3,9 +3,9 @@ abstract: Copper-based Catalysts for Selective Catalytic Oxidation of Ammonia
 address:
   city: Shanghai
   country: China
-  postcode: "808-0135"
-  region: Wakamatsu-ku
-  street: 1-1, Hibikino
+  postcode: "200080"
+  region: Hong Kou
+  street: 199, Huangpu Road
 all_day: false
 authors: []
 date: "2018-10-18T16:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Hyatt Hotel
+location: Hyatt on the Bund
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:

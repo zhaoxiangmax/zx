@@ -4,8 +4,8 @@ address:
   city: Kitakyushu
   country: Japan
   postcode: "808-0135"
-  region: 
-  street: 8, Duke Avenue
+  region: Wakamatsu-ku
+  street: 1-1, Hibikino
 all_day: false
 authors: []
 date: "2016-06-01T10:00:00Z"

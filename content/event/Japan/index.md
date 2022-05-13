@@ -5,7 +5,7 @@ address:
   country: Japan
   postcode: 808-0135"
   region: Wakamatsu-ku,
-  street: 1-1 Hibikino
+  street: 1-1, Hibikino
 all_day: false
 authors: []
 date: "2016-06-01T14:00:00Z"

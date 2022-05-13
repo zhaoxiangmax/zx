@@ -5,7 +5,7 @@ address:
   country: China
   postcode: "200080"
   region: Shanghai City
-  street: 199,HuangPu Road
+  street: 199, HuangPu Road
 all_day: false
 authors: []
 date: "2018-10-18T16:00:00Z"

@@ -1,10 +1,10 @@
 ---
 abstract: As the coordinator of the 2018 Blue Pionner Program, Zhao introduced their work and Blue        Pioneer Program to the State Secretary of the Minister of Climate and Environment of Norway in a        close-door meeting.
 address:
-  city: Kunshan
+  city: Shanghai
   country: China
   postcode: "215316"
-  region: Kunshan
+  region: Shanghai
   street: 8, Duke Avenue
 all_day: false
 authors: []

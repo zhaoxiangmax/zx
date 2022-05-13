@@ -1,15 +1,15 @@
 ---
-abstract: As the coordinator of the 2018 Blue Pionner Program, Zhao introduced their work and Blue        Pioneer Program to the State Secretary of the Minister of Climate and Environment of Norway in a        close-door meeting.
+abstract: Copper-based Catalysts for Selective Catalytic Oxidation of Ammonia
 address:
   city: Shanghai
   country: China
-  postcode: "215316"
-  region: Shanghai
-  street: 8, Duke Avenue
+  postcode: "808-0135"
+  region: Wakamatsu-ku
+  street: 1-1, Hibikino
 all_day: false
 authors: []
-date: "2018-10-18T16:00:00Z"
-date_end: "2018-10-18T18:00:00Z"
+date: "2016-06-01T10:00:00Z"
+date_end: "2016-06-01T12:00:00Z"
 event:
 event_url:
 featured: false
@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Hyatt Hotel
+location: The University of Kitakyushu
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: "Capacity building of China's Marine NGOs : Blue Pioneer Program""
+summary:
 tags: []
-title: "Capacity building of China's Marine NGOs : Blue Pioneer Program""
+title: Copper-based Catalysts for Selective Catalytic Oxidation of Ammonia
 url_code: ""
 url_pdf: ""
 url_slides: ""

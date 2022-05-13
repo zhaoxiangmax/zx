@@ -1,15 +1,15 @@
 ---
-abstract: A quick introduction on Systematic Conservation Planning
+abstract: The area-based conservation management in Antarctica and the Decsion-making system behind it
 address:
-  city: Kunshan
-  country: China
-  postcode: "215316"
-  region: Kunshan
-  street: 8, Duke Avenue
+  city: Brisbane
+  country: Australia
+  postcode: "4000"
+  region: Brisbane City
+  street: 2 George St
 all_day: false
 authors: []
-date: "2022-04-18T14:00:00Z"
-date_end: "2022-04-18T15:00:00Z"
+date: "2021-09-21T12:00:00Z"
+date_end: "2021-09-21T13:00:00Z"
 event:
 event_url:
 featured: false
@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Biodiversity Lab
+location: QUT, Zoom
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: What is Systematic Conservation Planning and how does it work?
+summary: The area-based conservation management in Antarctica and the Decsion-making system behind it
 tags: []
-title: A quick introduction on Systematic Conservation Planning
+title: The area-based conservation management in Antarctica and the Decsion-making system behind it
 url_code: ""
 url_pdf: ""
 url_slides: ""

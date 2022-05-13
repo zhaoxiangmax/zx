@@ -25,7 +25,7 @@ location: Sea Legs Brewing Co
 projects:Pint of Science Australia 2022
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides:
 summary: The power of cuteness and beyond.
 tags: []
 title: Panda, Koala, Penguin

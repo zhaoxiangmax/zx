@@ -1,20 +1,17 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: Why do we invest in protecting Pandas, Polar bears, Penguins and their habitats? Is it because   they are cute and famous? Should we give the money to solve urgent issues, like poverty? In this talk,   I will show you the costs and benefits behind the protection of these species.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: Brisbane
+  country: UAustralia
+  postcode: "4169"
+  region: Kangaroo Point
+  street: Sea Legs Brewing Co, 89 Main Street
 all_day: false
 authors: []
-date: "2022-04-08T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2022-05-11T18:20:00Z"
+date_end: "2022-05-11T20:00:00Z"
+event: Pint of Science 2022 AU
+event_url: https://pintofscience.com.au/event/biodiversity-onshore-and-afar
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -24,14 +21,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+location: Sea Legs Brewing Co
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Panda, Koala, Penguin
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -42,7 +39,7 @@ url_video: ""
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-Slides can be added in a few ways:
+ Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file

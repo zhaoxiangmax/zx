@@ -22,7 +22,7 @@ links:
   name: Follow
   url: https://twitter.com/yangyuzhaomax
 location: Sea Legs Brewing Co
-projects:Pint of Science Australia 2022
+projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:

@@ -1,5 +1,5 @@
 ---
-abstract: A quick introduction on Systematic Conservation Planning
+abstract: As the coordinator of the 2018 Blue Pionner Program, Zhao introduced their work and Blue        Pioneer Program to the State Secretary of the Minister of Climate and Environment of Norway in a        close-door meeting.
 address:
   city: Kunshan
   country: China

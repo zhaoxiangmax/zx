@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Queensland University of Technology, Australia
   organization_url: 
-  title: Postgraduates Research Award Scholarship and HDR Tuition Fee Sponsorship,
+  title: Postgraduates Research Award Scholarship and HDR Tuition Fee Sponsorship
   url: ""
 - certificate_url: 
   date_end: ""
@@ -58,7 +58,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2016-04-01"
-  description: ""
+  description: "Zhao got sponsored by Dalian University of Technology and The University of Kitakyushu to visit Japan for a week."
   organization: The University of Kitakyushu, Japan
   organization_url: 
   title: Academic Visiting

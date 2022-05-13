@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: As the coordinator of the 2018 Blue Pionner Program, Zhao introduced their work and Blue         Pioneer Program to the State Secretary of the Minister of Climate and Environment of Norway in a        close-door meeting.
 tags: []
-title: Capacity building of China's Marine NGOs : Blue Pioneer Program
+title: "Capacity building of China's Marine NGOs : Blue Pioneer Program""
 url_code: ""
 url_pdf: ""
 url_slides: ""

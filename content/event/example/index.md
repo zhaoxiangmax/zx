@@ -26,7 +26,7 @@ projects:Pint of Science Australia 2022
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: The power of cutness and beyond.
+summary: The power of cuteness and beyond.
 tags: []
 title: Panda, Koala, Penguin
 url_code: ""

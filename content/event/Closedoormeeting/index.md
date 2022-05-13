@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:
 tags: []
-title: "Capacity building for China's Marine NGOs: Blue Pioneer Program""
+title: "Capacity building for China's Marine NGOs: Blue Pioneer Program"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -3,7 +3,7 @@ abstract:Using copper-based catalyst to deal with NH3
 address:
   city: Kitakyushu
   country: Japan
-  postcode: ""
+  postcode: "802-8577"
   region: Kokuraminami Ward
   street: 4 Chome-2-1 Kitagata
 all_day: false

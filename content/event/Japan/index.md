@@ -1,7 +1,7 @@
 ---
 abstract: Copper-based Catalysts for Selective Catalytic Oxidation of Ammonia
 address:
-  city: Kunshan
+  city: Kitakyushu
   country: Japan
   postcode: "215316"
   region: Kunshan
@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Biodiversity Lab
+location: The University of Kitakyushu
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: What is Systematic Conservation Planning and how does it work?
+summary:
 tags: []
-title: A quick introduction on Systematic Conservation Planning
+title: Copper-based Catalysts for Selective Catalytic Oxidation of Ammonia
 url_code: ""
 url_pdf: ""
 url_slides: ""

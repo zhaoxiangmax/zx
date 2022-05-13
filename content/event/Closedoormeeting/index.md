@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: The University of Kitakyushu
+location: Hyatt Hotel
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:
 tags: []
-title: Copper-based Catalysts for Selective Catalytic Oxidation of Ammonia
+title: Capacity building for China's Marine NGOs : Blue Pioneer Program
 url_code: ""
 url_pdf: ""
 url_slides: ""

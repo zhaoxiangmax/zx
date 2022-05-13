@@ -22,8 +22,6 @@ links:
   name: Follow
   url: https://twitter.com/yangyuzhaomax
 location: Sea Legs Brewing Co
-projects:
-- internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: The power of cuteness and beyond.

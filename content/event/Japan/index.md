@@ -8,8 +8,8 @@ address:
   street: 8, Duke Avenue
 all_day: false
 authors: []
-date: "2022-04-18T14:00:00Z"
-date_end: "2022-04-18T15:00:00Z"
+date: "2016-06-01T10:00:00Z"
+date_end: "2016-06-01T12:00:00Z"
 event:
 event_url:
 featured: false

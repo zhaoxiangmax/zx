@@ -8,8 +8,8 @@ address:
   street: 1-1, Hibikino
 all_day: false
 authors: []
-date: "2016-06-01T10:00:00Z"
-date_end: "2016-06-01T12:00:00Z"
+date: "2018-10-18T16:00:00Z"
+date_end: "2018-10-18T18:00:00Z"
 event:
 event_url:
 featured: false

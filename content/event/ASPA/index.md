@@ -1,15 +1,15 @@
 ---
-abstract: The area-based conservation management in Antarctica and the Decsion-making system behind it
+abstract: This talk is a part of a workshop "Data Science and the Environment" of a tow-day symposium "FLOURISH! Interdisciplinary Solutions for A Thriving Planet"
 address:
   city: Brisbane
   country: Australia
-  postcode: "4000"
-  region: Brisbane City
-  street: 2 George St
+  postcode: "4101"
+  region: South Bank Brisbane
+  street: 
 all_day: false
 authors: []
-date: "2021-09-21T12:00:00Z"
-date_end: "2021-09-21T13:00:00Z"
+date: "2022-06-07T13:15:00Z"
+date_end: "2022-06-07T15:15:00Z"
 event:
 event_url:
 featured: false
@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: QUT, Zoom
+location: S07_123, Griffith South Bank Graduate Centre
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: The area-based conservation management in Antarctica and the Decsion-making system behind it
+summary: 
 tags: []
-title: The area-based conservation management in Antarctica and the Decsion-making system behind it
+title: Collecting data in the lab, in the field, and on a desk
 url_code: ""
 url_pdf: ""
 url_slides: ""

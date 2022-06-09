@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Talks'
+title: 'Talks, Workshops, and Community Services'
 subtitle:
 
 content:

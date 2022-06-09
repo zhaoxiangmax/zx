@@ -24,9 +24,9 @@ links:
 location: S07_123, Griffith South Bank Graduate Centre
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Zhao was one of the organisers of this workshop and did a talk on "Collecting data in the lab, in the field, and on a desk" in the workshop
+summary: Zhao was in the organizing committee of this workshop and did a talk on "Collecting data in the lab, in the field, and on a desk" in the workshop.
 tags: []
-title: Workshop: Data Science and the Environment
+title: "Workshop: Data Science and the Environment"
 url_code: ""
 url_pdf: ""
 url_slides: ""

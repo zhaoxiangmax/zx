@@ -1,9 +1,10 @@
 ---
 widget: blank
+active: true
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: My New Section
+title:
 subtitle:
 weight: 10  # section position on page
 design:

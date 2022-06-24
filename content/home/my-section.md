@@ -1,15 +1,29 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
+
+# Activate this widget? true/false
 active: true
+
+# This file represents a page section.
 headless: true
 
-# ... Put Your Section Options Here (title etc.) ...
+# Order that this section appears on the page.
+weight: 10
+
 title:
 subtitle:
-weight: 10  # section position on page
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
----
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+design:
+  columns: "1"
+  background:
+    image: open-book.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+---

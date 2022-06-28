@@ -42,7 +42,7 @@ superuser: true
 title: Zhao Xiang (赵 翔)
 ---
 
-Zhao is a research student working on optimal biodiveristy surveying and monitoring design problem in terrestiral Antarctica.
+Zhao is a research student working on optimal biodiveristy surveying and monitoring design problem in terrestrial Antarctica.
 
 He worked on a project that was desigend to protect the giant panda’s habitats from free-ranging livestock threat in Southwest China, with financial support from Birdlife International Young Conservation Leaders Awards. He also initiated, managed, and coordinated a marine conservation program – Blue Pioneers Program 2018 – which was designed to empower China’s local marine NGOs and young leaders who work on the frontline of marine and coastal protection. This project has built a strong network connecting participants to environmental economists, marine scientists, senior leaders of international NGOs, and foundations from all over the world. In 2018, the King and Queen of Norway received 3 participants and Prof. Kathinka Fürst, the Academic Supervisor of this program, during their visit to China. Zhao introduced this program to the State Secretary of Norway in a close-door meeting on the same day.
 

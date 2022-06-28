@@ -1,45 +1,47 @@
 ---
-bio: My research interests include dynamic conservation planning and optimal monitoring.
+title: Zhao Xiang (赵 翔)
+role: HDR Student
+avatar_filename: zhaoxiang.jpeg
+bio: My research interests include dynamic conservation planning and optimal
+  monitoring.
+interests:
+  - Conservation Planning
+  - Optimal Monitoring
+  - Human Disturbance
+  - Social-ecological System
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:x36.zhao@hdr.qut.edu.au
+  - display:
+      header: true
+    icon: twitter
+    icon_pack: fab
+    label: Follow me on Twitter
+    link: https://twitter.com/yangyuzhaomax
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zhaoxiangmax
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/xiang-zhao-4ba08113a/
+organizations:
+  - name: Queensland University of Technology
+    url: https://www.qut.edu.au/
 education:
   courses:
-  - course: Master of Philosophy (Conservation Science)
-    institution: Queensland University of Technology
-    year: 2023
-  - course: Bachelor of Environmental Engineering
-    institution: Dalian University of Technology
-    year: 2017
-email: "x36.zhao@hdr.qut.edu.au"
-highlight_name: true
-interests:
-- Conservation Planning
-- Optimal Monitoring
-- Human Disturbance
-- Social-ecological System
-organizations:
-- name: Queensland University of Technology
-  url: https://www.qut.edu.au/
-role: HDR Student
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:x36.zhao@hdr.qut.edu.au"
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/yangyuzhaomax
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://
-- icon: github
-  icon_pack: fab
-  link: https://github.com/zhaoxiangmax
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/xiang-zhao-4ba08113a/
+    - course: Master of Philosophy (Conservation Science)
+      institution: Queensland University of Technology
+      year: 2023
+    - course: Bachelor of Environmental Engineering
+      institution: Dalian University of Technology
+      year: 2017
+email: x36.zhao@hdr.qut.edu.au
 superuser: true
-title: Zhao Xiang (赵 翔)
+highlight_name: true
 ---
 
 Zhao is a research student working on optimal biodiveristy surveying and monitoring design problem in terrestrial Antarctica.

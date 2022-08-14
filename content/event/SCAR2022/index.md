@@ -10,7 +10,7 @@ all_day: false
 authors: []
 date: "2022-08-02T05:00:00Z"
 date_end: "2022-08-02T07:00:00Z"
-event:SCAR Open Science Conference 2022
+event:"SCAR Open Science Conference 2022""
 event_url:https://scar2022.org/programme/
 featured: false
 image:

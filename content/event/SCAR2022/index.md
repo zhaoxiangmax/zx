@@ -10,7 +10,7 @@ all_day: false
 authors: []
 date: "2022-08-02T05:00:00Z"
 date_end: "2022-08-02T07:00:00Z"
-event:"SCAR Open Science Conference 2022""
+event:"SCAR Open Science Conference 2022"
 event_url:https://scar2022.org/programme/
 featured: false
 image:
@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:
 tags: []
-title: Where should people go to survey biodiversity in terrestrial Antarctica?
+title: "Where should people go to survey biodiversity in terrestrial Antarctica?"
 url_code: ""
 url_pdf: ""
 url_slides: ""

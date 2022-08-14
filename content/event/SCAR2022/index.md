@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:
 tags: []
-title: Where should people go to survey biodiversity in terrestiral Antarctica?
+title: Where should people go to survey biodiversity in terrestrial Antarctica?
 url_code: ""
 url_pdf: ""
 url_slides: ""

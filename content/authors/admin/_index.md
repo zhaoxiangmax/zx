@@ -13,15 +13,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:zhaoxiangmax@hotmail.com
-  - display:
-      header: true
-    icon: twitter
-    icon_pack: fab
-    label: Follow me on Twitter
-    link: https://twitter.com/yangyuzhaomax
   - icon: graduation-cap
     icon_pack: fas
-    link: https://
+    link: https://scholar.google.com/citations?user=MMvGIa0AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/zhaoxiangmax

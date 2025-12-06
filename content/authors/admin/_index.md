@@ -1,6 +1,6 @@
 ---
 title: Zhao Xiang (赵 翔)
-role: HDR Student
+role: Birder/Conservation Scientist/Software developer
 avatar_filename: avatar.jpg
 bio: My research interests include dynamic conservation planning and optimal
   monitoring.
@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:x36.zhao@hdr.qut.edu.au
+    link: mailto:zhaoxiangmax@hotmail.com
   - display:
       header: true
     icon: twitter
@@ -35,18 +35,15 @@ education:
   courses:
     - course: Master of Philosophy (Conservation Science)
       institution: Queensland University of Technology
-      year: 2023
+      year: 2024
     - course: Bachelor of Environmental Engineering
       institution: Dalian University of Technology
       year: 2017
-email: x36.zhao@hdr.qut.edu.au
+email: zhaoxiangmax@hotmail.com
 superuser: true
 highlight_name: true
 ---
+I am a software developer, eResearcher, and conservation scientist with expertise in R programming, ecological modelling, and spatial analysis. I joined QCIF in 2024 as a Software Developer and R Specialist, contributing to the EcoCommons Platform. I completed my MPhil at QUT, where I applied spatial and statistical modelling to biodiversity research in Antarctica. I have also tutored GIS and environmental planning at QUT, and previously worked on a panda conservation project in China, earning the BirdLife International Young Conservation Leaders Award.
 Zhao is a research student working on optimal biodiversity surveying and monitoring design problem in terrestrial Antarctica.
 
-He worked on a project that was designed to protect the giant panda’s habitats from free-ranging livestock threat in Southwest China, with financial support from Birdlife International Young Conservation Leaders Awards. He also initiated, managed, and coordinated a marine conservation program – Blue Pioneers Program 2018 – which was designed to empower China’s local marine NGOs and young leaders who work on the frontline of marine and coastal protection. This project has built a strong network connecting participants to environmental economists, marine scientists, senior leaders of international NGOs, and foundations from all over the world. In 2018, the King and Queen of Norway received 3 participants and Prof. Kathinka Fürst, the Academic Supervisor of this program, during their visit to China. Zhao introduced this program to the State Secretary of Norway in a close-door meeting on the same day.
-
-The Panda Project and the Blue Pioneers Program were conducted during Zhao’s employment with Duke Kunshan University, Kunshan, China. Before that, Zhao got his bachelor’s degree in Environmental Engineering from Dalian University of Technology, Dalian, China.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiang_Zhao_CV_25022022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiang Zhao_CV_24112025.pdf" "newtab" >}}resumé{{< /staticref >}}.

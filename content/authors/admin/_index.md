@@ -29,8 +29,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/xiang-zhao-4ba08113a/
 organizations:
-  - name: Queensland University of Technology
-    url: https://www.qut.edu.au/
+  - name: QCIF
+    url: https://www.qcif.edu.au/our-people/xiang-zhao-(zhao)
 education:
   courses:
     - course: Master of Philosophy (Conservation Science)

@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 title: Nature Photography
-view: 2
+view: 3
 filters:
   - Birds
   - Others

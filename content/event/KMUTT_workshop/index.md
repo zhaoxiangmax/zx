@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Biodiversity Lab
+location: King Mongkut's University of Technology Thonburi (KMUTT), Bangkhunthien Campus, Bangkok (Thailand)
 publishDate: "2026-01-01T00:00:00Z"
 slides:
 summary:

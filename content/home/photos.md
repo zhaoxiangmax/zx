@@ -3,13 +3,13 @@ widget: pages
 headless: true
 title: Photography
 subtitle: Selected wildlife photography
-weight: 30
+weight: 90
 
 content:
   page_type: photos
   count: 6
 
 design:
-  view: card
+  view: 3
   columns: 3
 ---

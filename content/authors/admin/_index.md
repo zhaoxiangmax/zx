@@ -2,13 +2,12 @@
 title: Zhao Xiang (赵 翔)
 role: Birder/Conservation Scientist/Software developer
 avatar_filename: avatar.jpg
-bio: My research interests include dynamic conservation planning and optimal
-  monitoring.
+bio: I am a birder, software developer, eResearcher, and conservation scientist with expertise in R programming, ecological modelling, and spatial analysis. I joined QCIF in 2024 as a Software Developer and R Specialist, contributing to the EcoCommons Platform. I completed my MPhil at QUT, where I applied spatial and statistical modelling to biodiversity research in Antarctica. I have also tutored GIS and environmental planning at QUT, and previously worked on a panda conservation project in China, earning the BirdLife International Young Conservation Leaders Award.
 interests:
+  - Species Distribution Modelling
+  - Spatial Statistics and Analysis
   - Conservation Planning
   - Optimal Monitoring
-  - Human Disturbance
-  - Social-ecological System
 social:
   - icon: envelope
     icon_pack: fas

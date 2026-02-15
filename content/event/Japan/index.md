@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: The University of Kitakyushu
+location: The University of Kitakyushu, Japan
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:

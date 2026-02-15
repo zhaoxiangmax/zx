@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: S07_123, Griffith South Bank Graduate Centre
+location: S07_123, Griffith South Bank Graduate Centre, Brisbane, Australia
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: Zhao was in the organizing committee of this workshop and did a talk on "Collecting data in the lab, in the field, and on a desk" in the workshop.

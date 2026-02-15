@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Sea Legs Brewing Co
+location: Sea Legs Brewing Co, Brisbane, Australia
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: The power of cuteness and beyond.

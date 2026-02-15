@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: QUT and Zoom
+location: QUT and Zoom, Brisbane, Australia
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: 

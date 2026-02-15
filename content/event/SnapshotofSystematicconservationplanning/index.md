@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yangyuzhaomax
-location: Biodiversity Lab
+location: Biodiversity Lab, Online, Kunshan, China
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: What is Systematic Conservation Planning and how does it work?

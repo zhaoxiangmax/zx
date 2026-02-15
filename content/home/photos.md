@@ -7,9 +7,9 @@ weight: 90
 
 content:
   page_type: photos
-  count: 6
+  count: 8
 
 design:
   view: 3
-  columns: 3
+  columns: 6
 ---

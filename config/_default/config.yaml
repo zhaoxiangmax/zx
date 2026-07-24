@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Zhao Xiang # Website name
-baseurl: 'https://https://zhaoxiang.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://zhaoxiang.netlify.app/' # Website URL
+copyright: '© {year} Zhao Xiang' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

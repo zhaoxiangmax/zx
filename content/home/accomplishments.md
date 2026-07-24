@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url:
+  date_end: ""
+  date_start: "2024-12-01"
+  description: |-
+    Issued by the QUT Vice-Chancellor's Office · Dec 2024. Associated with QUT (Queensland University of Technology).
+
+    Nominated by Dr Catherine Kim, who said: "The EVB203 Geospatial Information Science sessional team (2023, 2024) have been excellent in supporting the needs of students. Dr Catherine Kim modified the unit to include multiple tools to do geospatial analyses including the R programming language, ESRI ArcGIS, and QGIS for real-world relevance. This means that the tutors attend to various questions and troubleshooting. The tutors have also contributed to 'translating' some of the tutorial content across different tools and Canvas content. The tutorial sessions are very hands-on dealing with technical and unit questions for 6+ hours a week. The tutors were all around helpful which the students appreciated: 'Very friendly demonstrator that was eager to help students with any issue they might be facing and made a fun learning environment'. The EVB203 tutoring team has been a joy to work with and has made my life as a unit coordinator easier!"
+  organization: QUT Vice-Chancellor's Office (Queensland University of Technology)
+  organization_url:
+  title: QUT Vice-Chancellor's Award for Excellence – Sessional Staff Excellence
+  url: ""
 - certificate_url: 
   date_end: "2023-06-01"
   date_start: "2021-06-01"

@@ -2,7 +2,7 @@
 title: Zhao Xiang (赵 翔)
 role: Birder/Conservation Scientist/Software developer
 avatar_filename: avatar.jpg
-bio: I am a birder, software developer, eResearcher, and conservation scientist with expertise in R programming, ecological modelling, and spatial analysis. I joined QCIF in 2024 as a Software Developer and R Specialist, contributing to the EcoCommons Platform. I completed my MPhil at QUT, where I applied spatial and statistical modelling to biodiversity research in Antarctica. I have also tutored GIS and environmental planning at QUT, and previously worked on a panda conservation project in China, earning the BirdLife International Young Conservation Leaders Award.
+bio: I'm a birder, conservation scientist, and software developer working at the intersection of ecology and code. As a Software Developer and R Specialist at QCIF, I build and maintain the EcoCommons Platform, helping researchers run species distribution models and spatial analyses at scale. I earned my MPhil at QUT, where I applied spatial and statistical modelling to biodiversity monitoring in Antarctica. Along the way I've tutored GIS and environmental planning, led a panda conservation project in China, and been recognised with the BirdLife International Young Conservation Leaders Award. My work centres on turning ecological questions into reproducible, well-designed tools.
 interests:
   - Species Distribution Modelling
   - Spatial Statistics and Analysis
@@ -36,7 +36,6 @@ email: zhaoxiangmax@hotmail.com
 superuser: true
 highlight_name: true
 ---
-I am a software developer, eResearcher, and conservation scientist with expertise in R programming, ecological modelling, and spatial analysis. I joined QCIF in 2024 as a Software Developer and R Specialist, contributing to the EcoCommons Platform. I completed my MPhil at QUT, where I applied spatial and statistical modelling to biodiversity research in Antarctica. I have also tutored GIS and environmental planning at QUT, and previously worked on a panda conservation project in China, earning the BirdLife International Young Conservation Leaders Award.
-Zhao is a research student working on optimal biodiversity surveying and monitoring design problem in terrestrial Antarctica.
+I'm a birder, conservation scientist, and software developer working at the intersection of ecology and code. As a Software Developer and R Specialist at QCIF, I build and maintain the EcoCommons Platform, helping researchers run species distribution models and spatial analyses at scale. I earned my MPhil at QUT, where I applied spatial and statistical modelling to biodiversity monitoring in Antarctica. Along the way I've tutored GIS and environmental planning, led a panda conservation project in China, and been recognised with the BirdLife International Young Conservation Leaders Award. My work centres on turning ecological questions into reproducible, well-designed tools.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiang Zhao_CV_24112025.pdf" "newtab" >}}resumé{{< /staticref >}}.

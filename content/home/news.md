@@ -37,7 +37,7 @@ item:
     📄 [Read the English summary](/post/ecocommons-sbs-mandarin/) (for readers who don't speak Mandarin)
   organization: SBS Chinese (Mandarin)
   organization_url: https://www.sbs.com.au/language/chinese/zh-hans
-  title: "From Data to Maps: How EcoCommons Helps Scientists Understand Australia's Wildlife"
+  title: "From Data to Maps: How EcoCommons Helps Scientists Understand Australia's Wildlife｜从数据到地图：华人科研人员助力澳洲野生动物保护"
   url: https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/how-ecocommons-is-helping-scientists-better-understand-australias-wildlife/f2k2pag4g
 - certificate_url:
   date_end: ""
@@ -52,7 +52,7 @@ item:
     📄 [Read the full article (Traditional Chinese)](https://www.sbs.com.au/language/chinese/zh-hant/article/2026-eureka-prizes-finalists-announced/afogsryxz)
   organization: SBS Chinese (Cantonese/Traditional)
   organization_url: https://www.sbs.com.au/language/chinese/zh-hant
-  title: "Chinese scientists among the 2026 Eureka Prize finalists"
+  title: "Chinese scientists among the 2026 Eureka Prize finalists｜多位華人入圍2026年尤里卡科學獎"
   url: https://www.sbs.com.au/language/chinese/zh-hant/article/2026-eureka-prizes-finalists-announced/afogsryxz
 
 design:

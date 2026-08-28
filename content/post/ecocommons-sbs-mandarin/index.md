@@ -15,14 +15,18 @@ tags:
 - Media
 - Conservation
 - Species Distribution Modelling
-title: "From Data to Maps: How EcoCommons Helps Scientists Understand Australia's Wildlife (SBS Mandarin)"
+title: "From Data to Maps: How EcoCommons Helps Scientists Understand Australia's Wildlife｜从数据到地图：华人科研人员助力澳洲野生动物保护"
 ---
 
 ## In the news
 
+**Original episode title (中文):** 【尤里卡奖】从数据到地图：华人科研人员助力澳洲野生动物保护
+
 SBS Mandarin (SBS 中文) featured the [EcoCommons](https://www.ecocommons.org.au/) platform and my work on it in a podcast episode (11:34), presented by Olivia Yuan.
 
-🎧 **Listen to the episode (Mandarin):**
+<p lang="zh-Hans" style="border-left:3px solid #b9c6b0;padding-left:.75rem;margin:.1rem 0 1.4rem;color:#5a6552;font-size:.95em;line-height:1.75;">SBS 中文在一期播客节目（11:34）中介绍了 <a href="https://www.ecocommons.org.au/">EcoCommons</a> 平台以及我参与的工作，由 Olivia Yuan 主持。</p>
+
+🎧 **Listen to the episode (Mandarin) ｜ 收听节目（普通话）：**
 
 <audio controls preload="none" style="width:100%;max-width:520px;">
   <source src="interview-sbs-mandarin.mp3" type="audio/mpeg">
@@ -31,7 +35,11 @@ SBS Mandarin (SBS 中文) featured the [EcoCommons](https://www.ecocommons.org.a
 
 You can also listen on SBS: [How EcoCommons is helping scientists better understand Australia's wildlife](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/how-ecocommons-is-helping-scientists-better-understand-australias-wildlife/f2k2pag4g) (SBS Chinese, 27 Aug 2026).
 
+<p lang="zh-Hans" style="border-left:3px solid #b9c6b0;padding-left:.75rem;margin:.1rem 0 1.4rem;color:#5a6552;font-size:.95em;line-height:1.75;">你也可以在 SBS 收听：<a href="https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/how-ecocommons-is-helping-scientists-better-understand-australias-wildlife/f2k2pag4g">EcoCommons 如何帮助科学家更好地了解澳大利亚的野生动物</a>（SBS 中文，2026 年 8 月 27 日）。</p>
+
 The episode is in Mandarin. Below is my English summary, with the original Mandarin (中文) shown under each paragraph.
+
+<p lang="zh-Hans" style="border-left:3px solid #b9c6b0;padding-left:.75rem;margin:.1rem 0 1.4rem;color:#5a6552;font-size:.95em;line-height:1.75;">节目为普通话。以下是我整理的英文摘要，每段英文下方附有对应的中文原文。</p>
 
 ## English summary & original Mandarin
 

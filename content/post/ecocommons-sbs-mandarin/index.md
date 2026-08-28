@@ -6,6 +6,11 @@ categories:
 date: "2026-08-27T00:00:00Z"
 draft: false
 featured: true
+image:
+  caption: 'The EcoCommons team — 2026 Australian Museum Eureka Prizes finalist for Excellence in Data Platforms'
+  focal_point: Smart
+  placement: 2
+  preview_only: true
 lastmod: "2026-08-27T00:00:00Z"
 projects: []
 subtitle: "SBS Mandarin talks to Xiang Zhao about EcoCommons and how data science supports wildlife conservation in Australia."
@@ -21,6 +26,11 @@ title: "From Data to Maps: How EcoCommons Helps Scientists Understand Australia'
 ## In the news
 
 **Original episode title (中文):** 【尤里卡奖】从数据到地图：华人科研人员助力澳洲野生动物保护
+
+<figure style="max-width:420px;margin:1rem 0;">
+  <img src="featured.jpg" alt="The EcoCommons team, 2026 Australian Museum Eureka Prizes finalist" style="width:100%;height:auto;border-radius:8px;" />
+  <figcaption style="font-size:.85em;color:#5a6552;margin-top:.4rem;">The EcoCommons team — 2026 Australian Museum Eureka Prizes finalist for Excellence in Data Platforms.</figcaption>
+</figure>
 
 SBS Mandarin (SBS 中文) featured the [EcoCommons](https://www.ecocommons.org.au/) platform and my work on it in a podcast episode (11:34), presented by Olivia Yuan.
 

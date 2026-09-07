@@ -25,18 +25,18 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2026-08-03"
+  date_start: "2026-09-01"
   description: |-
-    Shortlisted as a finalist for the ARDC Eureka Prize for Excellence in Data Platforms, recognising the EcoCommons Platform among the 2026 Australian Museum Eureka Prizes finalists.
+    Winner of the ARDC Eureka Prize for Excellence in Data Platforms, recognising the EcoCommons Platform at the 2026 Australian Museum Eureka Prizes.
 
-    <img src="media/eureka-finalist.jpg" alt="Eureka Prize finalist" style="max-width:400px;width:100%;height:auto;border-radius:6px;" />
+    <img src="media/eureka-winner.jpg" alt="EcoCommons team at the 2026 Eureka Prizes awards ceremony" style="max-width:400px;width:100%;height:auto;border-radius:6px;" />
 
 
-    [Watch the finalist video](https://www.youtube.com/watch?v=Oz9oVudF5JE)
+    [Watch the video](https://www.youtube.com/watch?v=Oz9oVudF5JE)
   organization: Australian Museum (Australian Research Data Commons)
   organization_url: https://australian.museum/get-involved/eureka-prizes/
-  title: Finalist – ARDC Eureka Prize for Excellence in Data Platforms
-  url: https://australian.museum/get-involved/eureka-prizes/2026-eureka-prizes-finalists/
+  title: Winner – ARDC Eureka Prize for Excellence in Data Platforms
+  url: https://australian.museum/get-involved/eureka-prizes/2026-eureka-prize-winners/
 - certificate_url:
   date_end: ""
   date_start: "2024-12-01"

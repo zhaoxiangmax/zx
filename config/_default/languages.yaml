@@ -5,18 +5,27 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Second language: Simplified Chinese. Served at /zh/.
+#   Content is translated by filename (e.g. `about.zh.md`), so no `contentDir` is needed.
+zh:
+  languageCode: zh-Hans
+  weight: 2
+  title: 赵翔
+  params:
+    description: '赵翔 —— 观鸟者、保护科学家与软件开发者，专注于物种分布模型、空间统计与 R 语言编程。'
+  menu:
+    main:
+      - name: 关于
+        url: '#about'
+        weight: 10
+      - name: 奖项
+        url: '#accomplishments'
+        weight: 20
+      - name: 演讲
+        url: '#talks'
+        weight: 30
+      - name: 摄影
+        url: '#photos'
+        weight: 40

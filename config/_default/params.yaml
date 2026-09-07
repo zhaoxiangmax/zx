@@ -43,7 +43,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -134,6 +134,7 @@ marketing:
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
+  microsoft_clarity: 'utfgwy5au4'
 cms:
   branch: main
   local_backend: false

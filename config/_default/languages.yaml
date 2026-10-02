@@ -29,3 +29,6 @@ zh:
       - name: 摄影
         url: '#photos'
         weight: 40
+      - name: 社交与视频
+        url: '#social'
+        weight: 50

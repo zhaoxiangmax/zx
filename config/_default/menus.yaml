@@ -16,3 +16,6 @@ main:
   - name: Photography
     url: '#photos'
     weight: 40
+  - name: 'Social & Videos'
+    url: '#social'
+    weight: 50

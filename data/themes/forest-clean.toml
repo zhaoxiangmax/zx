@@ -1,0 +1,18 @@
+# Theme metadata — a cleaned-up Forest: white navbar, black menu text.
+name = "Forest Clean"
+
+# Is theme light or dark?
+light = true
+
+# Primary accent (links, buttons) — keep the ecology green
+primary = "#4caf50"
+
+# Menu — white bar, near-black text, green highlight for the active tab
+menu_primary = "#ffffff"
+menu_text = "#1b1b1b"
+menu_text_active = "#4caf50"
+menu_title = "#1b1b1b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

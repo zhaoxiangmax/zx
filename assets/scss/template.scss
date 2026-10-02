@@ -1,14 +1,4 @@
-// Smaller font for longer names
-.portrait-title h2 {
-  font-size: 1.5rem;
-}
-
-// Nudge the profile avatar up
-.avatar {
-  margin-top: -0.5rem;
-}
-
-// Nudge the About text column (bio, interests, education) down a bit
-#about .col-lg-8 .article-style {
-  margin-top: 1.75rem;
+// Larger navigation tab text
+.navbar-nav .nav-link {
+  font-size: 1.2rem;
 }
